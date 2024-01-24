@@ -1,4 +1,4 @@
 #!/bin/bash
-poetry run pelican -r "content" -o "output" &
+poetry run pelican "content" -o "docs" &
 sleep 1
 sh ../commitblog.sh
