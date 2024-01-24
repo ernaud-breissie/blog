@@ -1,6 +1,6 @@
 AUTHOR = 'Ernaud Breissie'
 SITENAME = 'Ernaud Breissie Blog : Looking For Gamedesign'
-SITEURL = ""
+SITEURL = "https://ernaud-breissie.github.io/blog/"
 
 PATH = "content"
 
