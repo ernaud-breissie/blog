@@ -6,6 +6,7 @@ authors = ["ernaud breissie <ernaudbreissie@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+pelican = {extras = ["markdown"], version = "^4.9.1"}
 
 [tool.poetry.dev-dependencies]
 
