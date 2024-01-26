@@ -27,8 +27,8 @@ LINKS = (
 # Social widget
 SOCIAL = (
     ("Twitter/X/NouvelleLubieDeMusk", "https://twitter.com/ernaudbreissie"),
-    ("BlueSky : ", "https://bsky.app/profile/ernaudbreissie.bsky.social"),
-    ("Bgg : ", "https://boardgamegeek.com/user/ernaudbreissie"),
+    ("BlueSky : ernaudbreissie", "https://bsky.app/profile/ernaudbreissie.bsky.social"),
+    ("Bgg : ernaudbreissie", "https://boardgamegeek.com/user/ernaudbreissie"),
 )
 
 DEFAULT_PAGINATION = 10
