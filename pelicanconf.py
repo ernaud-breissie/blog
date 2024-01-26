@@ -29,6 +29,7 @@ SOCIAL = (
     ("Twitter/X/NouvelleLubieDeMusk", "https://twitter.com/ernaudbreissie"),
     ("BlueSky : ernaudbreissie", "https://bsky.app/profile/ernaudbreissie.bsky.social"),
     ("Bgg : ernaudbreissie", "https://boardgamegeek.com/user/ernaudbreissie"),
+    ("ernaudbreissie[@AT]gmail.com", "mailto:ernaudbreissie[@AT]gmail.com"),
 )
 
 DEFAULT_PAGINATION = 10
