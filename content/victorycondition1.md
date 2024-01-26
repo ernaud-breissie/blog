@@ -1,5 +1,5 @@
 Title: Team but not Team victory
-Date: 2024-26-01 10:20
+Date: 2024-01-26 10:20
 Category: Gamedesign
 
 An interesting game design concept involves two teams. Each player secretly receives information about which team they are on, but does not know the teams of the other players. Victory is determined individually. To win, a player must avoid being in the same team as the player who is in the last position.
