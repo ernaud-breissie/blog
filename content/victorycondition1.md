@@ -1,5 +1,6 @@
 Title: Team but not Team victory
 Date: 2024-01-26 10:20
+tags: mecanique,mechanism,gamedesign,victory
 Category: Gamedesign
 
 An interesting game design concept involves two teams. Each player secretly receives information about which team they are on, but does not know the teams of the other players. Victory is determined individually. To win, a player must avoid being in the same team as the player who is in the last position.
@@ -14,4 +15,3 @@ Un concept de game design intéressant implique deux équipes. Chaque joueur re�
 
 
 
-:tags: mecanique,mechanism,gamedesign,victory
