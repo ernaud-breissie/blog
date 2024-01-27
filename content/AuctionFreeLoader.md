@@ -4,6 +4,9 @@ Tags: mecanique,mechanism,gamedesign,auction,enchere
 Category: Gamedesign
 
 
+[Version française ici](#Version_française)
+
+
 In this auction mechanic, there are 6 players (P1, P2, etc.). When player P1 plays an auction card, each player has the choice to bet coins. Each player has two gold coins and two brass coins. The card specifies the following rewards:
 
 1. If a total of 6 gold coins is bet in the auction bag, each player receives 1 additional gold coin.
@@ -13,9 +16,24 @@ In this auction mechanic, there are 6 players (P1, P2, etc.). When player P1 pla
 This mechanic is inspired by the "free rider" concept where some players can benefit without contributing, but if too many players adopt this strategy, everyone is penalized, including the "free riders".
 
 
+If you want to comment and reach me on this subject :
+
+The thread on :
+
+[mastodon : https://wargamers.social/@ernaudbreissie/111827002775539671](https://wargamers.social/@ernaudbreissie/111827002775539671)
+
+
+[bluesky : https://bsky.app/profile/ernaudbreissie.bsky.social/post/3kjx7bneknf2a](https://bsky.app/profile/ernaudbreissie.bsky.social/post/3kjx7bneknf2a)
+
+
+[twitter : https://twitter.com/ernaudbreissie/status/1751162410117775465](https://twitter.com/ernaudbreissie/status/1751162410117775465)
+
 __________________
 
-version française :
+
+
+[Version_française]
+
 
 
 Dans cette mécanique d'enchère, il y a 6 joueurs (J1, J2, etc.). Lorsque le joueur J1 joue une carte d'enchère, chaque joueur a le choix de miser des pièces. Chaque joueur possède deux pièces d'or et deux pièces de laiton. La carte spécifie les récompenses suivantes :
@@ -25,3 +43,22 @@ Dans cette mécanique d'enchère, il y a 6 joueurs (J1, J2, etc.). Lorsque le jo
 3. Si moins de 5 pièces d'or sont misées, tous les joueurs perdent 1 pièce d'or.
 
 Cette mécanique s'inspire du concept du "passager clandestin" où certains joueurs peuvent tirer profit sans contribuer, mais si trop de joueurs adoptent cette stratégie, tout le monde est pénalisé, y compris les "passagers clandestins".
+
+
+
+
+
+Si vous voulez me contacter et discuter sur le sujet:
+
+Le thread sur :
+
+
+
+[mastodon : https://wargamers.social/@ernaudbreissie/111827002775539671](https://wargamers.social/@ernaudbreissie/111827002775539671)
+
+
+[bluesky : https://bsky.app/profile/ernaudbreissie.bsky.social/post/3kjx7bneknf2a](https://bsky.app/profile/ernaudbreissie.bsky.social/post/3kjx7bneknf2a)
+
+
+[twitter : https://twitter.com/ernaudbreissie/status/1751162410117775465](https://twitter.com/ernaudbreissie/status/1751162410117775465)
+
