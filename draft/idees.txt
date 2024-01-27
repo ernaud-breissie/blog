@@ -1,0 +1,5 @@
+
+
+la mecanique de corruption dans le jeu mask de dnd
+
+on peut payer avec des jetons corruptions mais leur valeur est negative a la fin et leur valeur negative dépend du nombre de jetons de corruptions chez tout le monde (fibo ou expo)
