@@ -24,9 +24,9 @@ The thread on :
 
 ______________________
 
-[#Version_française]
+[Version_française]
 
-Version française :
+
 
 
 Un concept de game design intéressant qui implique deux équipes : Chaque joueur reçoit secrètement l'information indiquant dans quelle équipe il se trouve, mais ne connaît pas les équipes des autres joueurs. La victoire est déterminée individuellement. Pour gagner, un joueur doit éviter d'être dans la même équipe que le joueur qui se trouve en dernière position.
