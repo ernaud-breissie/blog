@@ -14,13 +14,13 @@ If you want to comment and reach me on this subject :
 
 The thread on :
 
-[mastodon : https://wargamers.social/@ernaudbreissie/111827002775539671](https://wargamers.social/@ernaudbreissie/111827002775539671)
+[mastodon : https://wargamers.social/@ernaudbreissie/111833254704516179](https://wargamers.social/@ernaudbreissie/111833254704516179)
 
 
-[bluesky : https://bsky.app/profile/ernaudbreissie.bsky.social/post/3kjx7bneknf2a](https://bsky.app/profile/ernaudbreissie.bsky.social/post/3kjx7bneknf2a)
+[bluesky : https://bsky.app/profile/ernaudbreissie.bsky.social/post/3kjzy7bzym32c](https://bsky.app/profile/ernaudbreissie.bsky.social/post/3kjzy7bzym32c)
 
 
-[twitter : https://twitter.com/ernaudbreissie/status/1751162410117775465](https://twitter.com/ernaudbreissie/status/1751162410117775465)
+[twitter : https://twitter.com/ernaudbreissie/status/1751562561500200966](https://twitter.com/ernaudbreissie/status/1751562561500200966)
 
 __________________
 
@@ -42,11 +42,11 @@ Le thread sur :
 
 
 
-[mastodon : https://wargamers.social/@ernaudbreissie/111827002775539671](https://wargamers.social/@ernaudbreissie/111827002775539671)
+[mastodon : https://wargamers.social/@ernaudbreissie/111833254704516179](https://wargamers.social/@ernaudbreissie/111833254704516179)
 
 
-[bluesky : https://bsky.app/profile/ernaudbreissie.bsky.social/post/3kjx7bneknf2a](https://bsky.app/profile/ernaudbreissie.bsky.social/post/3kjx7bneknf2a)
+[bluesky : https://bsky.app/profile/ernaudbreissie.bsky.social/post/3kjzy7bzym32c](https://bsky.app/profile/ernaudbreissie.bsky.social/post/3kjzy7bzym32c)
 
 
-[twitter : https://twitter.com/ernaudbreissie/status/1751162410117775465](https://twitter.com/ernaudbreissie/status/1751162410117775465)
+[twitter : https://twitter.com/ernaudbreissie/status/1751562561500200966](https://twitter.com/ernaudbreissie/status/1751562561500200966)
 
