@@ -1,4 +1,4 @@
-Title: A good website for old tcg ccg
+Title:A good website for old tcg ccg
 Date: 2001-01-26 10:20
 Tags: ccg,tcg
 Category: Recommandation
