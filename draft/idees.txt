@@ -3,3 +3,27 @@
 la mecanique de corruption dans le jeu mask de dnd
 
 on peut payer avec des jetons corruptions mais leur valeur est negative a la fin et leur valeur negative dépend du nombre de jetons de corruptions chez tout le monde (fibo ou expo)
+
+heptagone
+
+
+la pieuvre
+
+
+dés d'escalade
+
+
+dés de stress d'alien
+
+ In this system, each faction possesses distinct combat cards. During a combat scenario, a player plays one of these cards, which has a definitive effect such as "gaining control of the region" or "all units inflicting damage". After playing a card, it is then passed to the opponent, who selects a cost to be paid by the card's original player. This cost varies and could involve the loss of special resources or a counterattack by the opponent's units. This innovative mechanic adds a strategic layer to combat, requiring players to weigh the benefits of a combat card against the potential costs imposed by their opponent.
+
+ la quete de baldur :
+
+
+ In the classic video game "Baldur's Gate," the quest involving Melicamp the Chicken unfolds as follows:
+
+Melicamp, originally a human apprentice wizard, accidentally transforms himself into a chicken while experimenting with magic. The player encounters Melicamp in this chicken form and has the option to assist him. If agreed, the player must transport Melicamp to his mentor, the wizard Thalantyr, who resides in the High Hedge area.
+
+Upon reaching Thalantyr, the player presents Melicamp to him. Thalantyr, recognizing his apprentice's predicament, attempts a restoration spell to return Melicamp to his human form. This spell, however, has a chance of failure. If the spell succeeds, Melicamp is transformed back into a human, and the player is rewarded with experience points. If the spell fails, Melicamp tragically dies, and the quest ends with the player still receiving a smaller amount of experience points for their efforts.
+
+
