@@ -1,5 +1,5 @@
 Title: Success Attack Card with a Cost
-Date: 2024-01-30 08:20
+Date: 2024-01-01 08:20
 Tags: mecanique,mechanism,gamedesign,combat,counterattack,cost
 Category: Gamedesign
 
