@@ -6,7 +6,7 @@ Category: Gamedesign
 [Version française ici](#Version_française)
 
 
-1. **Normal Attack Enhancement**: In this JRPG, the normal attack, often seen as the least beneficial action, is enhanced. Each successful normal attack can grant the player a specific bonus, such as additional mana or an increase in damage dealt.
+1. **Normal Attack Enhancement**: In this JRPG, the normal attack, often seen as the least beneficial action, is enhanced. Each successful normal attack can grant the player a specific bonus, such as additional mana or an increase in damage dealt with an other action (spells, special attack etc ...), the bonus could be cumulative, then linear or exponential.
 
 2. **Combat Structure with Enemy Groups and Bosses**: Battles always occur against groups of enemies, each led by a boss. Victory is achieved as soon as the boss is defeated. If the player chooses to defeat the boss last, after taking out the other enemies in the group, they receive a bonus in experience points and/or items.
 
@@ -22,7 +22,7 @@ version francaise :
 
 
 
-1. **Amélioration de l'attaque normale** : Dans ce JRPG, l'attaque normale, souvent considérée comme l'action la moins avantageuse, est revalorisée. Chaque attaque normale réussie peut octroyer au joueur un bonus spécifique, comme de la mana supplémentaire ou une augmentation des dégâts infligés.
+1. **Amélioration de l'attaque normale** : Dans ce JRPG, l'attaque normale, souvent considérée comme l'action la moins avantageuse, est revalorisée. Chaque attaque normale réussie peut octroyer au joueur un bonus spécifique, comme de la mana supplémentaire ou une augmentation des dégâts infligés pour les sorts, les attaques speciales, les autres actions. Le bonus peut etre cumulatif, linéaire ou exponentiel.
 
 2. **Structure des combats en groupes avec boss** : Les affrontements se déroulent toujours contre des groupes d'ennemis, chacun dirigé par un boss. La victoire est acquise dès que le boss est vaincu. Si le joueur décide d'éliminer le boss en dernier, après avoir vaincu les autres ennemis du groupe, il reçoit un bonus en points d'expérience et/ou en objets.
 
