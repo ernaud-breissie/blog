@@ -1,6 +1,6 @@
 Title: The Dynamics of Player-Independent Quests in Video Games: Melicamp The Chicken
 Date: 2024-02-05 10:56
-Tags: mecanique,mechanism,gamedesign,crpg,quest,immersion,npc,quete
+Tags: mecanique,mechanism,gamedesign,crpg,quest,immersion,npc,quete,trpg
 Category: Gamedesign
 
 [Version française ici](#Version_française)
@@ -16,6 +16,8 @@ Considering quests or storylines where events or outcomes do not depend solely o
 We could even go further, imagining that NPCs have their own goals and try to act independently of the player's presence according to a predefined agenda, with direct consequences on the world with which the player interacts. For instance, on day 1, NPC A attempts to burglarize NPC B's house. If successful, they become richer, items from house B are put on sale by the merchant, NPC B places a bounty to find the burglar which becomes a quest, and security and the number of guards in the neighborhood increase. If they fail and are killed, their guild might seek revenge or their apartment becomes vacant, or their ghost may ask to be avenged. If they fail and escape, neighborhood security increases, the bounty is still on, and they might ask the player to give it another try. All these actions are determined by dice rolls behind the scenes by the computer, and occur in the neighborhood whether the player is there or not. We can even imagine that the player's actions prior to NPC A's action might have consequences on the outcome of the burglary. For example, if the player causes trouble in the same neighborhood, security might become tighter, thereby lowering NPC A's chances of a successful burglary. Consequently, if they fail and either die or escape, they might blame the player, saying that because of their reckless actions, neighborhood security was heightened, partly causing their burglary to fail. Game designers would do well to consider more quests designed in this model, thereby enriching the gaming experience with a deeper and more unpredictable dimension.
 
 Encouraging the development of quests that operate on this model would enrich the gaming experience, offering depth and unpredictability that immerse the player in a world where every action, every choice, has a real impact on how the adventure unfolds.
+
+This system could aso be used in Tabletop Rpg, where Npc also makes rolls.
 
 
 ________________________________________
@@ -35,3 +37,5 @@ On pourrait même aller plus loin, en imaginant que les PNJs aient leurs propres
 
 
 Encourager le développement de quêtes fonctionnant sur ce modèle enrichirait l'expérience de jeu, offrant une profondeur et une imprévisibilité qui plongent le joueur dans un monde où chaque action, chaque choix, a un poids réel sur le déroulement de l'aventure.
+
+Ce systeme pourrait aussi etre utilisé en jeu de rôle papier ou les Pnjs auraient aussi a faire des jets pour les quêtes.
