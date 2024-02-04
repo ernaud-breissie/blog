@@ -64,6 +64,11 @@ The described mechanic of contextual bonuses and penalties in a CRPG (Computer R
 By incorporating these improvements and variants, the mechanic can become more interesing, offering players a deeply immersive and nuanced experience that rewards thoughtful play and exploration.
 
 
+Maybe this kind of bonus / malus that  are linked can be used in other game like in wargame (secondary objectives) or in point and click if you prepare more yourself, you have more tool.
+
+We can also imagine adding a time constraint, with consequence, so do you take time to dig and get bonus but you loose time and this have consequence or you go straight to the action but you have less chance ?
+
+
 
 __________________________________________
 
@@ -124,3 +129,7 @@ La mécanique décrite de bonus et de malus contextuels dans un CRPG (jeu de rô
 7. **Réactions variables des PNJ** : Les PNJ pourraient avoir différents seuils pour ce qu'ils considèrent comme des actions positives ou négatives basées sur leur personnalité, leur histoire, ou leur situation actuelle, rendant la dynamique sociale du monde du jeu plus complexe et réaliste.
 
 En intégrant ces améliorations et variantes, la mécanique peut devenir plus intéressante, offrant aux joueurs une expérience profondément immersive et nuancée qui récompense le jeu réfléchi et l'exploration.
+
+Peut-être que ce type de bonus/malus liés pourrait être utilisé dans d'autres jeux comme dans les wargames (objectifs secondaires) ou dans les point-and-click : si vous vous préparez davantage, vous avez plus d'outils.
+
+On peut aussi imaginer ajouter une contrainte de temps, avec des conséquences : prenez-vous le temps de fouiller et d'obtenir des bonus mais vous perdez du temps et cela a des conséquences, ou allez-vous directement à l'action mais avec moins de chances ?

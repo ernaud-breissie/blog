@@ -21,7 +21,139 @@
 
             <aside id="featured" class="body">
                 <article>
-                    <h1 class="entry-title"><a href="https://ernaud-breissie.github.io/blog/escalation-die.html">Escalation Die</a></h1>
+                    <h1 class="entry-title"><a href="https://ernaud-breissie.github.io/blog/bonus-malus-on-roll-in-crpg.html">Bonus Malus on roll in crpg</a></h1>
+<footer class="post-info">
+        <abbr class="published" title="2024-02-04T09:21:00+01:00">
+                Published: dim. 04 février 2024
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="https://ernaud-breissie.github.io/blog/author/ernaud-breissie.html">Ernaud Breissie</a>
+        </address>
+<p>In <a href="https://ernaud-breissie.github.io/blog/category/gamedesign.html">Gamedesign</a>.</p>
+<p>tags: <a href="https://ernaud-breissie.github.io/blog/tag/mecanique.html">mecanique</a> <a href="https://ernaud-breissie.github.io/blog/tag/mechanism.html">mechanism</a> <a href="https://ernaud-breissie.github.io/blog/tag/gamedesign.html">gamedesign</a> <a href="https://ernaud-breissie.github.io/blog/tag/combat.html">combat</a> <a href="https://ernaud-breissie.github.io/blog/tag/crpg.html">crpg</a> <a href="https://ernaud-breissie.github.io/blog/tag/bonus.html">bonus</a> </p>
+</footer><!-- /.post-info --><p><a href="#Version_française">Version française ici</a></p>
+<p>Bonus / Malus on roll in C-Rpg</p>
+<p>This mechanic revolves around a system of contextual bonuses and penalties in a CRPG (Computer Role-Playing Game) based on the player's previous actions and discoveries. </p>
+<p>In a computer role-playing game, players can receive bonuses or penalties based on their prior actions. For instance:</p>
+<h3>Bonus example</h3>
+<p>If a player has been kind to the bookseller's daughter in his presence, they receive a +1 bonus to any social dice rolls when asking him for a favor.</p>
+<p>Successfully operating a complex machine grants a +5 bonus if the player has previously found the technical manual in a drawer within the factory.</p>
+<p>Learning that an NPC (non-player character) is left-handed provides a +2 advantage in combat against them.
+Conversely, penalties apply based on negative interactions or failures:</p>
+<h3>Malus example</h3>
+<p>If an NPC witnesses the player failing a task, such as failing to persuade a bouncer, the player might incur a penalty when attempting to converse with someone else in the queue.</p>
+<p>Knowing an NPC is a formidable fighter and hearing terrifying tales about them can result in a penalty in combat against that NPC, especially if the player has previously failed a morale check.</p>
+<p>This system adds depth to the game by making interactions and knowledge acquisition directly influence the player's chances of success in various situations.</p>
+<p>The described mechanic of contextual bonuses and penalties in a CRPG (Computer Role-Playing Game) enhances gameplay in several ways, making it more engaging and dynamic for players. </p>
+<h3>Interest of the Mechanic</h3>
+<ol>
+<li>
+<p><strong>Increased Immersion</strong>: By directly linking the player's actions and choices to the game's outcomes, this mechanic fosters a deeper level of immersion. Players are likely to feel more invested in the game world and its characters when they see tangible consequences of their interactions.</p>
+</li>
+<li>
+<p><strong>Enhanced Role-Playing</strong>: It encourages players to think carefully about their decisions and actions, embodying their character's role more fully. This mechanic adds a layer of strategy to social interactions and exploration, beyond simply combat or quest completion.</p>
+</li>
+<li>
+<p><strong>Dynamic Gameplay</strong>: The introduction of bonuses and penalties based on past actions adds variability to the game, ensuring that no two playthroughs are exactly the same. This variability increases the game's replayability.</p>
+</li>
+<li>
+<p><strong>Narrative Depth</strong>: This system can be used to weave complex narratives where player choices significantly impact the story's direction. It allows for a nuanced storytelling approach, where characters remember past interactions and respond accordingly.</p>
+</li>
+</ol>
+<h3>Variants and Improvements</h3>
+<ol>
+<li>
+<p><strong>Cumulative Effects</strong>: Consider implementing a system where bonuses and penalties can accumulate or change over time based on a series of actions, rather than single instances. This could add complexity and depth to character relationships and game outcomes.</p>
+</li>
+<li>
+<p><strong>Visible and Invisible Consequences</strong>: Mix visible consequences (e.g., a direct bonus to skill checks) with more subtle, narrative-based outcomes (e.g., altering an NPC's dialogue or options available to the player later in the game) to enrich the gaming experience.</p>
+</li>
+<li>
+<p><strong>Dynamic Difficulty Adjustment</strong>: Use the mechanic to adjust the game's difficulty dynamically. For example, a player struggling with combat scenarios might find NPCs more inclined to offer help or support, subtly easing the game's difficulty.</p>
+</li>
+<li>
+<p><strong>Moral Ambiguity and Consequences</strong>: Introduce scenarios where the right action is not clear-cut, and both choices have their own sets of bonuses and penalties. This can lead to more morally complex situations and make the game's moral universe richer.</p>
+</li>
+<li>
+<p><strong>Integration with Skill Systems</strong>: Tie bonuses and penalties not just to outcomes but also to the player's skill development. For example, choosing to engage in certain actions might accelerate skill growth in one area while neglecting another.</p>
+</li>
+<li>
+<p><strong>Feedback Mechanism</strong>: Provide players with feedback on how their actions influenced their bonuses or penalties. This could be done through an NPC's dialogue, a journal entry, or a direct notification. It helps players understand the impact of their choices and learn from them.</p>
+</li>
+<li>
+<p><strong>Variable NPC Reactions</strong>: NPCs could have different thresholds for what they consider positive or negative actions based on their personality, history, or current situation, making the game world's social dynamics more complex and realistic.</p>
+</li>
+</ol>
+<p>By incorporating these improvements and variants, the mechanic can become more interesing, offering players a deeply immersive and nuanced experience that rewards thoughtful play and exploration.</p>
+<hr>
+<p>version francaise :</p>
+<p>Bonus et Malus dans un C-Rpg</p>
+<p>Cette mécanique repose sur un système de bonus et de malus contextuels dans un CRPG (jeu de rôle sur ordinateur) basé sur les actions et découvertes antérieures du joueur.</p>
+<p>Dans un jeu de rôle sur ordinateur, les joueurs peuvent recevoir des bonus ou des malus basés sur leurs actions précédentes. Par exemple :</p>
+<h3>Exemple de bonus</h3>
+<p>Si un joueur a été gentil avec la fille du libraire en sa présence, il reçoit un bonus de +1 à tous les jets de dés sociaux lorsqu'il lui demande une faveur.</p>
+<p>Opérer avec succès une machine complexe accorde un bonus de +5 si le joueur a préalablement trouvé le manuel technique dans un tiroir de l'usine.</p>
+<p>Apprendre qu'un PNJ (personnage non joueur) est gaucher donne un avantage de +2 au combat contre lui.</p>
+<p>Inversement, les malus s'appliquent en fonction des interactions négatives ou des échecs :</p>
+<h3>Exemple de malus</h3>
+<p>Si un PNJ est témoin de l'échec d'un joueur dans une tâche, comme ne pas réussir à persuader un videur, le joueur pourrait encourir un malus lorsqu'il tente de converser avec quelqu'un d'autre dans la file.</p>
+<p>Savoir qu'un PNJ est un combattant redoutable et entendre des récits terrifiants à son sujet peut entraîner un malus au combat contre ce PNJ, surtout si le joueur a précédemment échoué à un test de moral.</p>
+<p>Ce système ajoute de la profondeur au jeu en faisant en sorte que les interactions et l'acquisition de connaissances influencent directement les chances de succès du joueur dans diverses situations.</p>
+<p>La mécanique décrite de bonus et de malus contextuels dans un CRPG (jeu de rôle sur ordinateur) améliore le gameplay de plusieurs manières, rendant le jeu plus engageant et dynamique pour les joueurs.</p>
+<h3>Intérêt de la Mécanique</h3>
+<ol>
+<li>
+<p><strong>Immersion accrue</strong> : En liant directement les actions et choix du joueur aux résultats dans le jeu, cette mécanique favorise un niveau d'immersion plus profond. Les joueurs sont susceptibles de se sentir plus investis dans le monde du jeu et ses personnages lorsqu'ils voient les conséquences tangibles de leurs interactions.</p>
+</li>
+<li>
+<p><strong>Jeu de rôle amélioré</strong> : Elle encourage les joueurs à réfléchir soigneusement à leurs décisions et actions, incarnant le rôle de leur personnage plus pleinement. Cette mécanique ajoute une couche de stratégie aux interactions sociales et à l'exploration, au-delà du simple combat ou de l'achèvement de quêtes.</p>
+</li>
+<li>
+<p><strong>Gameplay dynamique</strong> : L'introduction de bonus et de malus basés sur les actions passées ajoute de la variabilité au jeu, garantissant qu'aucune partie ne soit exactement la même. Cette variabilité augmente la rejouabilité du jeu.</p>
+</li>
+<li>
+<p><strong>Profondeur narrative</strong> : Ce système peut être utilisé pour tisser des narrations complexes où les choix des joueurs impactent significativement la direction de l'histoire. Il permet une approche de narration nuancée, où les personnages se souviennent des interactions passées et répondent en conséquence.</p>
+</li>
+</ol>
+<h3>Variantes et Améliorations</h3>
+<ol>
+<li>
+<p><strong>Effets cumulatifs</strong> : Envisagez d'implémenter un système où les bonus et malus peuvent s'accumuler ou changer au fil du temps basé sur une série d'actions, plutôt que sur des instances uniques. Cela pourrait ajouter de la complexité et de la profondeur aux relations entre personnages et aux résultats du jeu.</p>
+</li>
+<li>
+<p><strong>Conséquences visibles et invisibles</strong> : Mélangez des conséquences visibles (par exemple, un bonus direct aux vérifications de compétences) avec des résultats plus subtils basés sur la narration (par exemple, modifier le dialogue d'un PNJ ou les options disponibles pour le joueur plus tard dans le jeu) pour enrichir l'expérience de jeu.</p>
+</li>
+<li>
+<p><strong>Ajustement dynamique de la difficulté</strong> : Utilisez la mécanique pour ajuster dynamiquement la difficulté du jeu. Par exemple, un joueur ayant du mal avec les scénarios de combat pourrait trouver des PNJ plus enclins à offrir de l'aide ou du soutien, facilitant subtilement la difficulté du jeu.</p>
+</li>
+<li>
+<p><strong>Ambiguïté morale et conséquences</strong> : Introduisez des scénarios où l'action correcte n'est pas évidente, et où les deux choix ont leurs propres ensembles de bonus et de malus. Cela peut mener à des situations moralement plus complexes et enrichir l'univers moral du jeu.</p>
+</li>
+<li>
+<p><strong>Intégration aux systèmes de compétences</strong> : Liez les bonus et malus non seulement aux résultats mais aussi au développement des compétences du joueur. Par exemple, choisir de s'engager dans certaines actions pourrait accélérer la croissance des compétences dans un domaine tout en négligeant un autre.</p>
+</li>
+<li>
+<p><strong>Mécanisme de retour</strong> : Fournissez aux joueurs des retours sur la manière dont leurs actions ont influencé leurs bonus ou malus. Cela pourrait être fait via le dialogue d'un PNJ, une entrée de journal, ou une notification directe. Cela aide les joueurs à comprendre l'impact de leurs choix et à apprendre d'eux.</p>
+</li>
+<li>
+<p><strong>Réactions variables des PNJ</strong> : Les PNJ pourraient avoir différents seuils pour ce qu'ils considèrent comme des actions positives ou négatives basées sur leur personnalité, leur histoire, ou leur situation actuelle, rendant la dynamique sociale du monde du jeu plus complexe et réaliste.</p>
+</li>
+</ol>
+<p>En intégrant ces améliorations et variantes, la mécanique peut devenir plus intéressante, offrant aux joueurs une expérience profondément immersive et nuancée qui récompense le jeu réfléchi et l'exploration.</p>                </article>
+            </aside><!-- /#featured -->
+                <section id="content" class="body">
+                    <h1>Other articles</h1>
+                    <hr />
+                    <ol id="posts-list" class="hfeed">
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="https://ernaud-breissie.github.io/blog/escalation-die.html" rel="bookmark"
+                           title="Permalink to Escalation Die">Escalation Die</a></h1>
+                </header>
+
+                <div class="entry-content">
 <footer class="post-info">
         <abbr class="published" title="2024-01-29T08:20:00+01:00">
                 Published: lun. 29 janvier 2024
@@ -32,24 +164,14 @@
         </address>
 <p>In <a href="https://ernaud-breissie.github.io/blog/category/gamedesign.html">Gamedesign</a>.</p>
 <p>tags: <a href="https://ernaud-breissie.github.io/blog/tag/mecanique.html">mecanique</a> <a href="https://ernaud-breissie.github.io/blog/tag/mechanism.html">mechanism</a> <a href="https://ernaud-breissie.github.io/blog/tag/gamedesign.html">gamedesign</a> <a href="https://ernaud-breissie.github.io/blog/tag/trpg.html">trpg</a> <a href="https://ernaud-breissie.github.io/blog/tag/rpg.html">rpg</a> <a href="https://ernaud-breissie.github.io/blog/tag/dice.html">dice</a> <a href="https://ernaud-breissie.github.io/blog/tag/hit.html">hit</a> <a href="https://ernaud-breissie.github.io/blog/tag/bonus.html">bonus</a> <a href="https://ernaud-breissie.github.io/blog/tag/combat.html">combat</a> </p>
-</footer><!-- /.post-info --><p><a href="#Version_française">Version française ici</a></p>
+</footer><!-- /.post-info -->                <p><a href="#Version_française">Version française ici</a></p>
 <p>Escalation Die :</p>
-<p>In each combat round after the first one, a six-sided die (1d6) is used to mark the bonus for both hitting and damage. Thus, there is no bonus to hit and damage in the first round, a +1 bonus to both hit and damage in the second round, +2 in third round,and so on. The die serves as a marker/counting tool for these bonuses. This is a 'scaling die' mechanic.</p>
-<p>If you want to comment and reach me on this subject :</p>
-<p>The thread on :</p>
-<p><a href="https://wargamers.social/@ernaudbreissie/111841179089310161">mastodon : https://wargamers.social/@ernaudbreissie/111841179089310161</a></p>
-<p><a href="https://bsky.app/profile/ernaudbreissie.bsky.social/post/3kk5inwshx22q">bluesky : https://bsky.app/profile/ernaudbreissie.bsky.social/post/3kk5inwshx22q</a></p>
-<p><a href="https://twitter.com/ernaudbreissie/status/1752069646675538273">twitter : https://twitter.com/ernaudbreissie/status/1752069646675538273</a></p>
-<hr>
-<h2>Version_française</h2>
-<p>Dés d'escalade :</p>
-<p>Lors de chaque tour de combat après le premier, un dé à six faces (1d6) est utilisé pour indiquer le bonus à la fois pour toucher et pour les dégâts. Ainsi, il n'y a pas de bonus ni pour toucher ni pour les dégâts lors du premier tour, un bonus de +1 pour toucher et pour les dégâts lors du deuxième tour, +2 au second tour,et ainsi de suite. Le dé sert de marqueur/compteur pour ces bonus. Il s'agit d'une mécanique de dé 'd'escalade'</p>
-<p>Si vous voulez me contacter et discuter sur le sujet:</p>
-<p>Le thread sur :</p>
-<p><a href="https://wargamers.social/@ernaudbreissie/111841179089310161">mastodon : https://wargamers.social/@ernaudbreissie/111841179089310161</a></p>
-<p><a href="https://bsky.app/profile/ernaudbreissie.bsky.social/post/3kk5inwshx22q">bluesky : https://bsky.app/profile/ernaudbreissie.bsky.social/post/3kk5inwshx22q</a></p>
-<p><a href="https://twitter.com/ernaudbreissie/status/1752069646675538273">twitter : https://twitter.com/ernaudbreissie/status/1752069646675538273</a></p>                </article>
-            </aside><!-- /#featured -->
+<p>In each combat round after the first one, a six-sided die (1d6) is used to mark the bonus for both hitting and damage. Thus, there is no bonus to hit and damage in the first round, a +1 bonus to both hit and damage in …</p>
+                <a class="readmore" href="https://ernaud-breissie.github.io/blog/escalation-die.html">read more</a>
+                </div><!-- /.entry-content -->
+            </article></li>
+                </ol><!-- /#posts-list -->
+                </section><!-- /#content -->
         <section id="extras" class="body">
                 <div class="blogroll">
                         <h2>links</h2>
